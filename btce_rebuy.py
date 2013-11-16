@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.3
 # calculates the profit from a certain sell/rebuy situation
-# author toffifee, ltc donations welcome :) LSRLVCerfwbAxBEyZJ4JtcZPdVwxc4zWs2
+# author kahlb, ltc donations welcome :) LSRLVCerfwbAxBEyZJ4JtcZPdVwxc4zWs2
 amount_sell = float(input('Enter the amount of currency you want to trade with: '))
 price_sell = float(input('Enter the current price of the currency you want to rebuy: '))
 fee = float(0.2)
